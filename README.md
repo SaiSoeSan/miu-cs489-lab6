@@ -1,10 +1,10 @@
 # Lab 6
 
-## database created from java code
+## Database Diagram created from java code
 
-![er-diagram](./screenshot/0.png)
+![er-diagram](./screenshot/er.png)
 
-## program output (getAllAppointment)
+## Program output (getAllAppointment)
 
-![program-output](./screenshot/1.png)
+![program-output](./screenshot/result.png)
 # miu-cs489-lab6
